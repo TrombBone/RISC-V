@@ -1,2 +1,5 @@
 # RISC-V
-Task of lowLevel programming SPbSTU
+
+LowLevel programming on PolyTech Peter's; RISC-V;
+
+Option 7: Determining the k-th order statistic in-place;
